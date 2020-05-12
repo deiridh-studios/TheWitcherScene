@@ -1,0 +1,18 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.10f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.10f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: disassembleShader
+  api=4 insize=1418 outsize=2755 ok=1
+Cmd: disassembleShader
+  api=4 insize=1914 outsize=3341 ok=1
+Cmd: disassembleShader
+  api=4 insize=2622 outsize=4430 ok=1
+Cmd: disassembleShader
+  api=4 insize=6258 outsize=8952 ok=1
+Cmd: disassembleShader
+  api=4 insize=1350 outsize=2630 ok=1
+Cmd: disassembleShader
+  api=4 insize=2066 outsize=3629 ok=1
+Cmd: disassembleShader
+  api=4 insize=1470 outsize=2805 ok=1
+Cmd: disassembleShader
+  api=4 insize=2066 outsize=3615 ok=1
