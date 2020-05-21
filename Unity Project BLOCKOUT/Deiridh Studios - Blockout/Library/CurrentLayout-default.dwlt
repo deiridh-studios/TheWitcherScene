@@ -45,10 +45,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 677, y: 492}
-  m_MaxSize: {x: 14001, y: 14042}
+  m_MinSize: {x: 679, y: 492}
+  m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 131
+  controlID: 14
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 276
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -94,8 +94,8 @@ MonoBehaviour:
     y: 0
     width: 371
     height: 676
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 201, y: 221}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -216,10 +216,10 @@ MonoBehaviour:
     y: 0
     width: 1644
     height: 947
-  m_MinSize: {x: 402, y: 492}
+  m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 132
+  controlID: 15
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -241,10 +241,10 @@ MonoBehaviour:
     y: 0
     width: 1644
     height: 676
-  m_MinSize: {x: 402, y: 221}
-  m_MaxSize: {x: 8002, y: 4021}
+  m_MinSize: {x: 403, y: 221}
+  m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 133
+  controlID: 16
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -456,21 +456,21 @@ MonoBehaviour:
     m_SkipHidden: 1
     m_SearchArea: 1
     m_Folders:
-    - Assets/Extra Assets/Escombros
+    - Assets/Extra Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Extra Assets/Escombros
+  - Assets/Extra Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\roger\OneDrive\Documentos\GitHub\TheWitcherScene\Unity
     Project BLOCKOUT\Deiridh Studios - Blockout
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 90}
-    m_SelectedIDs: f85f0000
-    m_LastClickedID: 24568
-    m_ExpandedIDs: 000000009a5f00009c5f00009e5f0000a05f0000a25f0000a45f0000a65f0000a85f0000aa5f0000ac5f0000ae5f0000de5f0000e45f0000186000007060000000ca9a3b
+    scrollPos: {x: 0, y: 95}
+    m_SelectedIDs: 9a610000
+    m_LastClickedID: 24986
+    m_ExpandedIDs: 00000000b2600000b4600000b6600000b8600000ba600000bc600000be600000c0600000c2600000c4600000c66000009a610000a061000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -498,7 +498,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009a5f00009c5f00009e5f0000a05f0000a25f0000a45f0000a65f0000a85f0000aa5f0000ac5f0000ae5f0000
+    m_ExpandedIDs: 00000000b2600000b4600000b6600000b8600000ba600000bc600000be600000c0600000c2600000c4600000c6600000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -620,10 +620,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 2886}
-      m_SelectedIDs: 5886ffff
-      m_LastClickedID: -31144
-      m_ExpandedIDs: 7edbfeffb2e2fefffe55ffff845dffff3c82ffff5882ffffe883ffffb484ffff9a85ffffe085ffffec85ffff2a86ffff3886ffff4e86ffff5886ffffb8f0ffffc8f0ffffcef0ffff44fbffff9a350000
+      scrollPos: {x: 0, y: 2848}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: fc01ffff4007ffffb046ffff0cc2ffff16c2ffff34c2ffff44fbffff48370000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -683,9 +683,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 361.6493, y: 100.352425, z: 599.6716}
+    m_Target: {x: 649.272, y: 102.23018, z: 521.8421}
     speed: 2
-    m_Value: {x: 361.6493, y: 100.352425, z: 599.6716}
+    m_Value: {x: 649.272, y: 102.23018, z: 521.8421}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -731,13 +731,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.06405085, y: -0.43027157, z: 0.024665473, w: 0.90077066}
+    m_Target: {x: -0.13011977, y: 0.6285649, z: -0.099677406, w: -0.7611637}
     speed: 2
-    m_Value: {x: 0.06404833, y: -0.42865592, z: 0.024554245, w: 0.9008602}
+    m_Value: {x: -0.1304802, y: 0.6247178, z: -0.09902499, w: -0.7634767}
   m_Size:
-    m_Target: 13.780161
+    m_Target: 58.754112
     speed: 2
-    m_Value: 13.186757
+    m_Value: 56.22403
   m_Ortho:
     m_Target: 0
     speed: 2
